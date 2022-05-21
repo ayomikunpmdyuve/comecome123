@@ -1,0 +1,660 @@
+{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "湛江综合",
+            "num": "00001",
+            "urllist": "http://dslive.grtn.cn/zjzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "韶关综合",
+            "num": "00002",
+            "urllist": "http://dslive.grtn.cn/sgxwzhHD/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "惠州综合",
+            "num": "00003",
+            "urllist": "http://dslive.grtn.cn/hzzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "梅州综合",
+            "num": "00004",
+            "urllist": "http://dslive.grtn.cn/mzzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "湛江综合",
+            "num": "00005",
+            "urllist": "http://dslive.grtn.cn/zjzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "汕尾综合",
+            "num": "00006",
+            "urllist": "http://dslive.grtn.cn/swzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "江门综合",
+            "num": "00007",
+            "urllist": "http://dslive.grtn.cn/jmzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "云浮综合",
+            "num": "00008",
+            "urllist": "http://dslive.grtn.cn/yfzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "珠海综合",
+            "num": "00009",
+            "urllist": "http://dslive.grtn.cn/zhzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "揭阳综合",
+            "num": "00010",
+            "urllist": "http://dslive.grtn.cn/jyzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "河源综合",
+            "num": "00011",
+            "urllist": "http://dslive.grtn.cn/hyzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "潮州综合",
+            "num": "00012",
+            "urllist": "http://dslive.grtn.cn/czzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江卫视HD",
+            "num": "00013",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江国际蓝光",
+            "num": "00014",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江经济生活蓝光",
+            "num": "00015",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江经济生活蓝光",
+            "num": "00016",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江娱乐蓝光",
+            "num": "00017",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江钱江蓝光",
+            "num": "00018",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江好易购蓝光",
+            "num": "00019",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel11/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江数码蓝光",
+            "num": "00020",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江少儿蓝光",
+            "num": "00021",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江教育蓝光",
+            "num": "00022",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江休闲",
+            "num": "00023",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江蓝光",
+            "num": "00024",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel13/1080p.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江钱江",
+            "num": "00025",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江经视",
+            "num": "00026",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江影视娱乐",
+            "num": "00027",
+            "urllist": "http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江6套",
+            "num": "00028",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江新闻",
+            "num": "00029",
+            "urllist": "http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "杭州综合",
+            "num": "00030",
+            "urllist": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "杭州明珠",
+            "num": "00031",
+            "urllist": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "杭州生活",
+            "num": "00032",
+            "urllist": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "杭州影视",
+            "num": "00033",
+            "urllist": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "杭州体育",
+            "num": "00034",
+            "urllist": "http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江绍兴公共台",
+            "num": "00035",
+            "urllist": "http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江绍兴影视台",
+            "num": "00036",
+            "urllist": "http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江绍兴综合台",
+            "num": "00037",
+            "urllist": "http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江舟山生活台",
+            "num": "00038",
+            "urllist": "http://live.wifizs.cn/ggsh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "浙江舟山综合台",
+            "num": "00039",
+            "urllist": "http://live.wifizs.cn/xwzh/sd/live.m3u8"
+        },
+        {
+            "itemid": "uid0001",
+            "name": "河北卫视",
+            "num": "00040",
+            "urllist": "http://live2.plus.hebtv.com/hbwsx/playlist.m3u8?_upt=9283181c1612108997"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "陈慧娴归来吧",
+            "num": "00041",
+            "urllist": "http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "杨钰莹不想说",
+            "num": "00042",
+            "urllist": "http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "李淑萍免失志",
+            "num": "00043",
+            "urllist": "https://vd3.bdstatic.com/mda-im1zj9hhubprkqm9/hd/mda-im1zj9hhubprkqm9.mp4?pd=19&playlist=%5B%22hd%22%2C%22sc%22%5D&vt=1"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "漫步人生路张亮颖",
+            "num": "00044",
+            "urllist": "http://vd3.bdstatic.com/mda-jknbufy74a9upbz5/hd/mda-jknbufy74a9upbz5.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "叶倩文",
+            "num": "00045",
+            "urllist": "http://vd3.bdstatic.com/mda-kjezvynvzq2rs67p/mda-kjezvynvzq2rs67p.mp4?playlist=%5B%22hd%22%5D&pd=19&vt=1&_res_tag_=video"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "张智霖-现代爱情故事",
+            "num": "00046",
+            "urllist": "http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "孟庭苇-无声的雨",
+            "num": "00047",
+            "urllist": "http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8"
+        },
+        {
+            "itemid": "uid0002",
+            "name": "王彩华爱情的骗子我问你",
+            "num": "00048",
+            "urllist": "http://vd4.bdstatic.com/mda-jm4h7v1isxwc660u/sc/mda-jm4h7v1isxwc660u.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ版《时间会知道你好不好》",
+            "num": "00049",
+            "urllist": "http://vd3.bdstatic.com/mda-mhairve7gvye1192/1080p/cae_h264/1629457148988604256/mda-mhairve7gvye1192.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ版《爱不得忘不舍》",
+            "num": "00050",
+            "urllist": "https://vd3.bdstatic.com/mda-mh8j8egnj8idbvd8/1080p/cae_h264/1629367979662473678/mda-mh8j8egnj8idbvd8.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ版《蜜雪冰城》",
+            "num": "00051",
+            "urllist": "https://vd3.bdstatic.com/mda-mhbae2pwwxhyxjcz/1080p/cae_h264/1628767594518574030/mda-mhbae2pwwxhyxjcz.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "《无味》 DJ版",
+            "num": "00052",
+            "urllist": "https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ版《原谅你的谎》",
+            "num": "00053",
+            "urllist": "http://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/cae_h264/1628673933350116053/mda-mhacxx5vhr2we882.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ《等爱》",
+            "num": "00054",
+            "urllist": "https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ《醉过多少回》",
+            "num": "00055",
+            "urllist": "https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ小鱼儿 - 如果你真的要离开 (DJ加快版)",
+            "num": "00056",
+            "urllist": "https://vd4.bdstatic.com/mda-mfh4rq9drsza8gf9/1080p/cae_h264/1623987066817324460/mda-mfh4rq9drsza8gf9.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ情歌《爱情迷了路》",
+            "num": "00057",
+            "urllist": "http://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "《忘川彼岸DJ》",
+            "num": "00058",
+            "urllist": "http://vd2.bdstatic.com/mda-md2eyfntemujuft5/1080p/cae_h264/1617446472/mda-md2eyfntemujuft5.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ音乐舞曲《一千个轮回》",
+            "num": "00059",
+            "urllist": "http://vd4.bdstatic.com/mda-mdu1939m1muvhme3/1080p/cae_h264/1619662287022848524/mda-mdu1939m1muvhme3.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ 最美不过你的微笑",
+            "num": "00060",
+            "urllist": "https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ 流浪兄弟",
+            "num": "00061",
+            "urllist": "https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "车载DJ《多年以后》",
+            "num": "00062",
+            "urllist": "http://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "红尘只是个过客",
+            "num": "00063",
+            "urllist": "https://vd2.bdstatic.com/mda-mhq68s6g444n437t/hd/cae_h264/1629865742325435508/mda-mhq68s6g444n437t.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "百花香(抖音DJ版)",
+            "num": "00064",
+            "urllist": "http://vd4.bdstatic.com/mda-mdsd1z3wbqeeyumq/fhd/cae_h264_nowatermark/1620021906658368673/mda-mdsd1z3wbqeeyumq.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "经典老歌DJ舞曲七首",
+            "num": "00065",
+            "urllist": "https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "精选五首DJ男声串烧",
+            "num": "00066",
+            "urllist": "http://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "韩可可《错位时空》DJ版",
+            "num": "00067",
+            "urllist": "https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "忘记你需要多久(DJ小鱼儿版)",
+            "num": "00068",
+            "urllist": "https://vd2.bdstatic.com/mda-mc1sm1r5s9azchjv/v1-cae/1080p/mda-mc1sm1r5s9azchjv.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "车载DJ《今夜为你醉...》",
+            "num": "00069",
+            "urllist": "https://vdse.bdstatic.com//b68123a666cce39e7413da912e3675a3.mp4"
+        },
+        {
+            "itemid": "uid0003",
+            "name": "DJ情歌6首",
+            "num": "00070",
+            "urllist": "https://vdse.bdstatic.com//c9e449d2db0a3fa5f6a8afafbc43fbdc.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "DJ爆红网络洗脑神曲",
+            "num": "00071",
+            "urllist": "http://vdse.bdstatic.com//bf4bb1d82b2eb17681c49e745dc2da21.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "劲爆DJ串烧",
+            "num": "00072",
+            "urllist": "https://vdse.bdstatic.com//01b1f78bb5b009d36ce3f5051e7383c1.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "好听的DJ串烧",
+            "num": "00073",
+            "urllist": "http://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "女生版DJ洗脑神曲",
+            "num": "00074",
+            "urllist": "http://vdse.bdstatic.com//6d2f84ad5762c818efd8dc210d8743c6.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "一夜火爆i网络DJ舞曲",
+            "num": "00075",
+            "urllist": "http://vdse.bdstatic.com//692b9306c06b72d223c9d714f8ebe579.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "最火伤感音乐",
+            "num": "00076",
+            "urllist": "https://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "网络火爆伤感情歌6首",
+            "num": "00077",
+            "urllist": "http://vdse.bdstatic.com//80e0473f97055cec1c9c76c1c7e5498a.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "热门伤感DJ",
+            "num": "00078",
+            "urllist": "http://vdse.bdstatic.com//06b4e9b185b843e694e4d20e9b0a0aac.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "伤感DJ舞曲",
+            "num": "00079",
+            "urllist": "http://vdse.bdstatic.com//6d39df48360bdb12f73800397c4a6c02.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "6首DJ情歌",
+            "num": "00080",
+            "urllist": "http://vdse.bdstatic.com//e0ad4d203cd7d7ffa943544c8d2ddbd3.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "几首比较火的DJ情歌",
+            "num": "00081",
+            "urllist": "http://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "精选6首DJ情歌",
+            "num": "00082",
+            "urllist": "http://vdse.bdstatic.com//2ead9cf04f5e9e3a99eea79534c3c104.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "《爱难求情难断…》",
+            "num": "00083",
+            "urllist": "http://vdse.bdstatic.com//0c8ed110c5522e9bd31752ecb999b1ab.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "酒吧DJ舞曲",
+            "num": "00084",
+            "urllist": "http://vdse.bdstatic.com//5208fb24e1d76b0e81f992e91537f086.mp4"
+        },
+        {
+            "itemid": "uid0004",
+            "name": "花都开了你来不来DJ",
+            "num": "00085",
+            "urllist": "https://vd3.bdstatic.com/mda-mdee523swbezmsin/480p/h264/1618480997/mda-mdee523swbezmsin.mp4"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "明月夜小曼",
+            "num": "00086",
+            "urllist": "http://vd3.bdstatic.com/mda-mcgwb1mvrtzcii78/hd/mda-mcgwb1mvrtzcii78.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "天下有情人童珺",
+            "num": "00087",
+            "urllist": "http://vd3.bdstatic.com/mda-jfsu4kx2y1sq29fd/hd/mda-jfsu4kx2y1sq29fd.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "暗里着迷童珺",
+            "num": "00088",
+            "urllist": "http://vdse.bdstatic.com//3b51b0733073eee051e3cc08b47a5ed5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-02-02T04%3A11%3A27Z%2F-1%2Fhost%2F15378f3f96a88e219a389323e8676f8f9a1cf758f19e735a891b09ad4859b214"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "怎么爱你都不够－靓声",
+            "num": "00089",
+            "urllist": "http://vdse.bdstatic.com//d277b76502b265a2aa2b3cb695b3943a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-02-24T18%3A37%3A28Z%2F-1%2Fhost%2Fd39dac25cc9774bc4e78528217ec2ef1e729aa5aba95f9dd1ad1e8fbe734b4ca"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "叹这一生靓声",
+            "num": "00090",
+            "urllist": "http://vd3.bdstatic.com/mda-mci7czcpkxg72wk4/hd/cae_h264/1616143587/mda-mci7czcpkxg72wk4.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Day by day韩",
+            "num": "00091",
+            "urllist": "http://vd3.bdstatic.com/mda-kia2tuytcxq7fy6k/hd/mda-kia2tuytcxq7fy6k.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Sexy love",
+            "num": "00092",
+            "urllist": "https://vdse.bdstatic.com//dae2cec5e519225715069882d31f5d4e.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-02-21T05%3A04%3A22Z%2F-1%2Fhost%2F7db8356562c39651dad6f2ce3554f70cb13c2bd5283fabc692459cab8e2fb133"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "邓涛再度重相逢",
+            "num": "00093",
+            "urllist": "http://vdse.bdstatic.com//afde7a23bcddac713aeca12b5e5de850.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-02-26T05%3A03%3A12Z%2F-1%2Fhost%2F9a09ed5734a3c87de6f0b0f5fb29c4e0e38593717887a6aaaf44d2b92d80278c"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "下定决心忘记你陈丽绢",
+            "num": "00094",
+            "urllist": "http://vdse.bdstatic.com//953da6d36a0f21a4aca3b3b54ebc2630.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-02-23T19%3A31%3A03Z%2F-1%2Fhost%2F7dec41a736d8f251c7f9061c13d5cf05fe9f5c0bf4be86e2df8f9353c0f74bab"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "活着－洪真英",
+            "num": "00095",
+            "urllist": "http://vd3.bdstatic.com/mda-km18q29tzjspes4z/hd/mda-km18q29tzjspes4z.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "神话情话粤语DJ",
+            "num": "00096",
+            "urllist": "http://vd3.bdstatic.com/mda-kftkgtwm9pus1h7x/v1-cae/hd/mda-kftkgtwm9pus1h7x.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "漫步人生路张靓颖",
+            "num": "00097",
+            "urllist": "http://vdse.bdstatic.com//f299cdf41ca756d2d99f307c443433a3.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-02-14T16%3A28%3A10Z%2F-1%2Fhost%2F41e8de4eefff88f23ca5604a787787645d32ef7db38ea0726a13944634cb9e83"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "La la love",
+            "num": "00098",
+            "urllist": "https://vd3.bdstatic.com/mda-kkuvx7a0i7s9nsgi/mda-kkuvx7a0i7s9nsgi.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "Don\\'t push me",
+            "num": "00099",
+            "urllist": "https://vd3.bdstatic.com/mda-kgmu4nhjk3hxuvr5/hd/mda-kgmu4nhjk3hxuvr5.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "倩影(靓声)",
+            "num": "00100",
+            "urllist": "http://vd3.bdstatic.com/mda-mfmenubhnr9q4q47/hd/cae_h264_nowatermark/1624357551178715109/mda-mfmenubhnr9q4q47.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "倩影",
+            "num": "00101",
+            "urllist": "http://vd3.bdstatic.com/mda-mfmenubhnr9q4q47/hd/cae_h264_nowatermark/1624357551178715109/mda-mfmenubhnr9q4q47.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "难得有情人",
+            "num": "00102",
+            "urllist": "http://vdse.bdstatic.com//0cfc8d31e61c6a2a53956d45069be20f.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-03-24T05%3A14%3A05Z%2F-1%2Fhost%2F6843cc25060a2db1df616abcbaa084b8be64cdaae1b09b58e64ccf27ad0c366b"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "我不想说杨钰莹",
+            "num": "00103",
+            "urllist": "http://vdse.bdstatic.com//7ab2aa1d533d1ad288ead83d11ab55f1.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-05-18T09%3A41%3A22Z%2F-1%2Fhost%2F56a76b90a4fd46ae2e85028044e8ccf970c4f2ff7baa5ef1709072d8e890cca1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "不想说二",
+            "num": "00104",
+            "urllist": "http://vd3.bdstatic.com/mda-kk7vhciij9rss9pq/hd/mda-kk7vhciij9rss9pq.mp4?pd=19&vt=1"
+        },
+        {
+            "itemid": "uid0005",
+            "name": "不想说MTV",
+            "num": "00105",
+            "urllist": "http://vd3.bdstatic.com/mda-kk7vhciij9rss9pq/hd/mda-kk7vhciij9rss9pq.mp4?pd=19&vt=1"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid0000",
+            "name": "卫视频道"
+        },
+        {
+            "id": "uid0001",
+            "name": "浙江频道"
+        },
+        {
+            "id": "uid0002",
+            "name": "音乐欣赏"
+        },
+        {
+            "id": "uid0003",
+            "name": "DJ"
+        },
+        {
+            "id": "uid0004",
+            "name": "抖音热歌《大风吹+夜夜夜漫长》http://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4"
+        },
+        {
+            "id": "uid0005",
+            "name": "音乐三"
+        }
+    ]
+}
